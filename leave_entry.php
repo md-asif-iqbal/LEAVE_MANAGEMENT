@@ -9,6 +9,6 @@
     if($create_query){
     echo 'Successfull';
   }else{
-    echo "unsuccessfull";
+    echo "Unsuccessfull";
   }
 ?>
